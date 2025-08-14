@@ -1,4 +1,4 @@
-# Movie Recommender System using Softmax Deep Neural Network
+# Movie Recommender System 
 This project implements a movie recommendation system leveraging a Softmax Deep Neural Network (DNN) trained on the MovieLens 100K dataset. It provides personalized movie recommendations based on user interaction history and offers an interactive web dashboard built with Dash to visualize the recommendations.
 
 ---
